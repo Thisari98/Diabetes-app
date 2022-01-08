@@ -3,3 +3,5 @@ joblib
 sklearn
 pandas
 numpy
+matplotlib  
+pyplot
