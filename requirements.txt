@@ -1,0 +1,9 @@
+joblib==1.0.1
+pyrebase
+Pyrebase4
+requests==2.27.1
+streamlit==1.8.1
+streamlit_lottie==0.0.3
+jwt
+sklearn
+pybase64
